@@ -23,7 +23,7 @@ Avant tout vous devez installer node JS (https://nodejs.org/fr/)
 
 1. Vous ouvrez le dossier avec Visual Studio code.
 2. Vous vous remplissez les informations dans le config.json
-3. Pour le token aller sur [Clique ici](https://discord.com/developers/applications)
+3. Pour le token aller sur [Discord Developer Portal](https://discord.com/developers/applications)
 4. Vous devez ouvrir un nouveau terminal (Console)
 5. Dans le terminal vous devez installer les différents modules :
 ```
