@@ -1,5 +1,7 @@
 # FiveBotRp
 
+Five-Dev : [Discord](https://discord.gg/fivedev)
+
 # Tutoriel
 
 Avant tout vous devez installer node JS (https://nodejs.org/fr/)
