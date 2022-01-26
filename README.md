@@ -1,6 +1,6 @@
 # FiveBotRp
 
-https://imgur.com/sVJAwHb.png
+![Preview](https://imgur.com/sVJAwHb.png)
 
 # Tutoriel
 
