@@ -13,6 +13,7 @@ Avant tout vous devez installer node JS (https://nodejs.org/fr/)
 1. npm i discord.js@12.5.1
 2. npm i fivereborn-query
 3. npm i fs
+```
 
 
 # Preview
