@@ -1,6 +1,6 @@
 # FiveBotRp
 
-Five-Dev : [Discord](https://discord.gg/rdevv)
+rDev : [Discord](https://discord.gg/rdevv)
 
 # Tutoriel
 
